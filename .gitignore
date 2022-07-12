@@ -348,3 +348,10 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+
+# Compiled binary addons (http://nodejs.org/api/addons.html)
+build/Release
+
+# Optional REPL history
+.node_repl_history
+.next
